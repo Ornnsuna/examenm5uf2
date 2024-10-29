@@ -1,0 +1,3 @@
+git init
+
+git remote add origin https://github.com/Ornnsuna/examenm5uf2.git
