@@ -50,4 +50,6 @@ git add .
 
 git commit -m "Fusion branca alfred"
 
+git pull
+
 git push https://github.com/Ornnsuna/examenm5uf2.git master
