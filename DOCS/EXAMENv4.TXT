@@ -37,3 +37,17 @@ git add .
 git commit -m "Canvi lloc ruta HTML"
 
 git push https://github.com/Ornnsuna/examenm5uf2.git master
+
+git branch branca_alfred
+
+git checkout branca_alfred
+
+git checkout master
+
+git merge branca_alfred
+
+git add .
+
+git commit -m "Fusion branca alfred"
+
+git push https://github.com/Ornnsuna/examenm5uf2.git master
