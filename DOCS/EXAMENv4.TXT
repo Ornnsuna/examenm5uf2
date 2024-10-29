@@ -14,6 +14,8 @@ git add .
 
 git commit -m "Versio 2"
 
+git pull https://github.com/Ornnsuna/examenm5uf2.git
+
 git push https://github.com/Ornnsuna/examenm5uf2.git master
 
 git pull https://github.com/Ornnsuna/examenm5uf2.git
@@ -30,4 +32,8 @@ git commit -m "Canvi lloc fitxers HTML"
 
 git push https://github.com/Ornnsuna/examenm5uf2.git master
 
+git add .
 
+git commit -m "Canvi lloc ruta HTML"
+
+git push https://github.com/Ornnsuna/examenm5uf2.git master
